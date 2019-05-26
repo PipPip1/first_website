@@ -4,3 +4,24 @@
 .nav-spacing {
   margin: 0 0 0 10px;
 }
+.image-link {
+  text-decoration: none;
+}
+.headings {
+  text-align: center;
+}
+.whale-image {
+  display: block; margin: 0 auto;
+}
+.div-style {
+  width: 500px; padding: 20px auto; padding: 30px; back-ground color: #fafafa;
+}
+.cover {
+  float: left; margin-right: 40px;
+}
+.blockquote {
+  font-style: italic; font-size: 20px;
+}
+.moby-quote {
+  font-style: normal; font-size: 24px; font-weight: bold; color: #ff0000;
+}
